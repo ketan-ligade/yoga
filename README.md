@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yoga Website ReactJS
 This **ReactJS** project has been developed using the **JSX syntax**, inlcuding **React Hooks** (useState and useEffect), and **CSS modules**. The website features a **responsive navbar**, a home page with relevant information, a separate blog page with a **filtering function** that users can reach from the navigation bar, and **pop-up forms**. 
 
@@ -55,3 +56,7 @@ If you have any questions or feedback about this project, please feel free to ge
 - [LinkedIn](https://www.linkedin.com/in/yuliia-maksymiuk-0b65aa241/)
 <br>
 Thank you!
+=======
+# yoga
+This is web Host the yoga content of My project
+>>>>>>> a82e2e92e2b4118a5f0729fb5e2359e9ea52e4ed
